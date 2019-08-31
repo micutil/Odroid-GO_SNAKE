@@ -2,9 +2,8 @@
 
 This program is "SNAKE for Odroid-GO" that is modificatio of "SNAKE with M5STACK" by macsbug.
 
-<p align="center">
- <img src="OGsnake.jpg" width="250">
-</p>
+<img src="OGsnake.jpg" width="250">
+
 
 #### Speed setting:
 
