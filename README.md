@@ -1,4 +1,4 @@
-#SNAKE for Odroid-GO
+# SNAKE for Odroid-GO
 
 This program is "SNAKE for Odroid-GO" that is modificatio of "SNAKE with M5STACK" by macsbug.
 
